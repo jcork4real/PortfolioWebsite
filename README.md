@@ -1,5 +1,5 @@
 # portfolioWebsite
-My portfolio website is currently a work in progress. Please feel free to take a look to view current progress.
+My portfolio website is currently under construction. In the meantime, please feel free to take a look to view current progress.
 
 
 
