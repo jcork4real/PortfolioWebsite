@@ -465,20 +465,46 @@ input, select, textarea {
 	/* P Line start */
 
 	.broadway-wrapper{
+		display: flex;
 		margin-top: 200px;
 		margin-left: 100px;
 		/* display: flex;
 		flex-direction: column; */
 		width: 500px;
-		border: dotted white;
+		/* border: dotted white; */
 	}
 	.p-line{
-		border: solid white;
+		/* border: solid white; */
+		width: 100px;
+	}
+	.p-line h3{
+		margin-top: 10px;
+		font-family: helvetica;
+		color: black;
+		line-height: 1.5;
+		padding-left: 4px;
+		font-size: 4.6rem;
+		width: 75px;
+		height: 75px;
+		border: solid;
+		border-radius: 100px;
+		background-color: #fccc0a;
 	}
 	.projects-line{
-		border: solid pink ;
-
+		/* border: solid pink; */
+		width: 100%;
 	}
+
+	.projects-line h3{
+		font-family: helvetica;
+		color: white;
+		line-height: 2.25;
+		font-size: 4.6rem;
+		padding-right: 120px;
+
+		font-weight: 50;
+	}
+
 
 
 	/* P Line End */
