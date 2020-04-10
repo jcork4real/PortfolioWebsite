@@ -404,6 +404,8 @@ input, select, textarea {
 	/* jarones subway strip map add-on */
 
 	.subway-streets-map-icon-wrapper{
+
+		padding-top: 100px;
 		
 		/* border: dotted white; */
 		width: 1000px;
