@@ -78,6 +78,7 @@ input, select, textarea {
 		box-sizing: border-box;
 		/* Responsive */
 		font-size: 62.5%;  
+		font-family: helvetica;
 		
 		/*jarones add-on */
 	
@@ -298,6 +299,7 @@ input, select, textarea {
 		opacity: 0.5;
 		
 	}
+
 	/* jarones card add-on */
 	.card-container{
 		width: 300px;
@@ -454,6 +456,7 @@ input, select, textarea {
 		/* border: solid white;  */
 		color: white;
 		transform: rotate(-47deg);
+		font-family: helvetica;
 	}
 	/* jarone streets end */
 
