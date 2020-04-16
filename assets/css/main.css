@@ -435,6 +435,11 @@ input, select, textarea {
 		background-color: #1F262A;
 		
 	}
+	.subway-stop a{
+		opacity: 0;
+		line-height: 3;
+		
+	}
 
 	.subway-stop:hover{
 		background-color: #ffb612;
